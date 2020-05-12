@@ -23,7 +23,7 @@ ingress:
   hosts:
     - ""
  ```
- and
+ and replace with your ip address or FQDN.
  
  ```yaml
  server:
